@@ -1,3 +1,21 @@
+# 🏦 Bank Customer Segmentation System (PCA + K-Means)
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Clustering-F7931E?logo=scikitlearn)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
+
+> An end-to-end unsupervised Machine Learning pipeline delivering customer segmentation via Principal Component Analysis (PCA) and K-Means clustering, integrated with an interactive Streamlit inference UI.
+
+---
+
+### 🖥️ Live Application Preview
+<div align="center">
+  <img src="reports/figures/demo_app.png" alt="Streamlit App Demo" width="90%">
+</div>
+
+---
+
 # Bank Customer Segmentation using PCA + K-Means
 
 An unsupervised machine learning project that segments bank customers into
