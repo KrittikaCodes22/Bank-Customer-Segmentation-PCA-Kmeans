@@ -230,7 +230,7 @@ streamlit run app/app.py
 - Cluster profiling and visualization
 - Interactive Streamlit app (explore + predict)
 
-**Optional / Not Attempted (kept out of scope for a 7-day project):**
+**Optional / Not Attempted:**
 - Deep learning-based embeddings for clustering
 - Real-time streaming data pipeline
 - Production deployment (cloud hosting, authentication, database backend)
