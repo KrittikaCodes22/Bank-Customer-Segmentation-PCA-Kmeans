@@ -237,12 +237,3 @@ streamlit run app/app.py
 - Automated hyperparameter tuning frameworks (e.g., Optuna) — manual/silhouette-based K selection is used instead
 
 ---
-
-## 11. Author's Note / Assumptions
-
-- Since programmatic access to Kaggle requires authenticated API credentials,
-  this repo ships a synthetic dataset that faithfully reproduces the real
-  dataset's schema and realistic messiness, so every step of the pipeline
-  (especially data cleaning) is genuinely exercised end-to-end.
-- A snapshot date is used to calculate "Recency" relative to the latest
-  transaction date in the dataset.
